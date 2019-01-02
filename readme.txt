@@ -14,3 +14,5 @@ Git has changed-----2.
 
 Git has changed-----3.
 
+Creating a new branch is quick.-----4.
+
